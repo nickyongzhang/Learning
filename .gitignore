@@ -20,3 +20,10 @@ Thumbs.db
 venv
 node_modules
 .sass-cache
+
+# Raw files
+*.csv
+*.txt
+*.zip
+*.gz
+*.tar
