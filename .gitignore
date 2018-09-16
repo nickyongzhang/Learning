@@ -27,3 +27,7 @@ node_modules
 *.zip
 *.gz
 *.tar
+
+# Models
+*.h5
+*.bin
