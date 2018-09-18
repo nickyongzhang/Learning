@@ -13,6 +13,9 @@ Thumbs.db
 # Compiled Python files
 *.pyc
 
+# ipynb checkpoint
+.ipynb_checkpoints
+
 # Compiled C++ files
 *.out
 
