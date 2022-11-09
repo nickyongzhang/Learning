@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"academy.learnprogramming","l":"BaseballPlayer"},{"p":"academy.learnprogramming","l":"FootballPlayer"},{"p":"academy.learnprogramming","l":"League"},{"p":"academy.learnprogramming","l":"Main"},{"p":"academy.learnprogramming","l":"Player"},{"p":"academy.learnprogramming","l":"Team"}]
